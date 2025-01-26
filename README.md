@@ -22,7 +22,7 @@ This project results from a large-stakes, group assessment in the capstone cours
 ```
 ### Step 2: Navigate to the Project Directory
 ```sh
-   cd 2024fa-420-Ctrl-Alt-Elite
+   cd UML-Editor
 ```
 ### Step 3: Build the Project
 + On Windows
